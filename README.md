@@ -30,11 +30,9 @@
 
 
 ## About Me
-- 📄 I have an internship experience as a Data Scientist at Wehelp Company
+- 📄 Student at The National School of Applied Sciences Kenitra
 
-- 🔭 I’m currently working on <span><strong>ASL </strong></span>(American Sign Language using artificial intelligence)
-
-- 🌱 I'm currently enhancing my knowledge of deep learning techniques and working on neural network models
+- 🌱 I'm currently enhancing my knowledge of Industry 4.0 
 
 - 📫 How to reach me **idrisselhouarii@gmail.com**
 
