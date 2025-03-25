@@ -1,98 +1,78 @@
+## 👋 Hello there! I'm Idriss, a passionate Data Scientist & Developer
 
-<h1 align="center">Hi 👋, I'm Idriss EL HOUARI</h1>
+```python
+def introduction():
+    print("👨‍💻  Data Scientist | Python Developer | Frontend Enthusiast")
+    print("🎓  Student at The National School of Applied Sciences Kenitra")
+    print("🌱  Currently exploring Industry 4.0 and AI innovations")
+    print("💬  Let's connect and build something amazing together!")
+```
 
-<p align="center">
-    <a align="center" href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=215&lines=+++Data+Scientist;Python+Developer;Frontend+Developer" alt="Typing SVG" />
-    </a>
-</p>
+## 🌐 Connect with me
 
-<p align="center">
-    <a href="mailto:idrisselhouarii@gmail.com" target="_blank">
-        <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-    </a>
-  <a href="https://linkedin.com/in/idrisselhouari" target="_blank">
-        <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.kaggle.com/idrisselhouari" target="_blank">
-      <img src="https://img.shields.io/static/v1?message=Kaggle&logo=Kaggle&label=&color=rgb(32, 190, 255)&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="kaggle logo"  />
-  </a>
-  <a href="https://instagram.com/idrisselhouari" target="_blank">
-        <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  </a>
-  <a href="https://twitter.com/idrisselhouari" target="_blank">
-      <img src="https://img.shields.io/static/v1?message=X&logo=X&label=&color=black&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="X logo"  />
-  </a>
-  <a href="https://discord.gg/#8103" target="_blank">
-      <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  </a>
-</p>
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:idrisselhouarii@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/idrisselhouari)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/idrisselhouari)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/idrisselhouari)
+[![X](https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/idrisselhouari)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/#8103)
+
+## 🛠 Tech Stack
+
+### AI & Data Science
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)](https://www.tensorflow.org)
+[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)](https://pytorch.org/)
+[![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
+[![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+[![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)](https://numpy.org/)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-0080FF?style=flat&logo=matplotlib&logoColor=white)](https://matplotlib.org/)
+[![Seaborn](https://img.shields.io/badge/Seaborn-0072B2?style=flat&logo=seaborn&logoColor=white)](https://seaborn.pydata.org/)
+
+### Databases
+
+#### Relational Databases (Rational)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)](https://www.microsoft.com/en-us/sql-server)
+[![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)](https://www.oracle.com/database/)
+
+#### NoSQL Databases (Non-Rational)
+[![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)](https://redis.io/)
+[![Hadoop](https://img.shields.io/badge/Hadoop-273544?style=flat&logo=apache-hadoop&logoColor=white)](https://hadoop.apache.org/)
+[![Hbase](https://img.shields.io/badge/Hbase-7A7A7A?style=flat&logo=apache-hbase&logoColor=white)](https://hbase.apache.org/)
+[![Cassandra](https://img.shields.io/badge/Cassandra-1287A5?style=flat&logo=apache-cassandra&logoColor=white)](https://cassandra.apache.org/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+
+### Web Development
+
+#### Front-End
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://www.w3.org/html/)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)](https://www.w3schools.com/css/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
+#### Back-End
+[![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)](https://laravel.com/)
+[![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)](https://www.djangoproject.com/)
+
+### Programming Languages
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
+[![R](https://img.shields.io/badge/R-276FC1?style=flat&logo=r&logoColor=white)](https://www.r-project.org/)
+[![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)](https://www.java.com/)
+[![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)](https://www.cprogramming.com/)
+[![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)](https://www.microsoft.com/net/csharp)
+
+### Tools & More
+[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)](https://www.figma.com/)
+[![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=flat&logo=adobe-illustrator&logoColor=white)](https://www.adobe.com/products/illustrator.html)
+[![PowerDesigner](https://img.shields.io/badge/PowerDesigner-000000?style=flat&logo=sap&logoColor=white)](https://www.sap.com/products/erwin-data-modeler.html)
+[![Enterprise Architect](https://img.shields.io/badge/Enterprise%20Architect-000000?style=flat&logo=sparxsystems&logoColor=white)](https://sparxsystems.com/)
+[![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=flat&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+[![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=flat&logo=anaconda&logoColor=white)](https://www.anaconda.com/)
 
 
-## About Me
-- 📄 Student at The National School of Applied Sciences Kenitra
+## 🎯 Current Focus
+- Deepening my expertise in AI and machine learning applications
+- Exploring Industry 4.0 technologies and their implementation
+- Building full-stack applications that solve real-world problems
+- Creating intuitive data visualizations that tell compelling stories
 
-- 🌱 I'm currently enhancing my knowledge of Industry 4.0 
-
-- 📫 How to reach me **idrisselhouarii@gmail.com**
-
-
-## 🛠 Languages and Tools
-
-
-#### AI & Data Science
-- **Machine Learning Frameworks:** <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" height="25"/>TensorFlow</a>,
- <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" height="25"/> PyTorch</a>,
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" height="25"/> Scikit-Learn</a>
-
-- **Data Analysis:** <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" height="25"/> Pandas</a>, <a href="https://numpy.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy"  height="25"/> Numpy</a>
-- **Data Visualization:** <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"><img src="https://matplotlib.org/_static/images/documentation.svg" alt="matplotlib" height="25"/> Matplotlib</a>, 
-<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" height="25"/> Seaborn</a>
-
-#### Databases
-- **Relational Databases:** <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" height="25"/> MySQL</a>, 
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" height="25"/> Microsoft SQL Server</a>, 
-<a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" height="25"/> Oracle</a> 
-
-- **NoSQL Databases:** <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" height="25"/> Redis</a>, <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Hadoop_logo_new.svg/langfr-220px-Hadoop_logo_new.svg.png" alt="mongodb" height="25"/> Hadoop</a>, <a href="https://hbase.apache.org/" target="_blank" rel="noreferrer"><img src="https://hbase.apache.org/images/hbase_logo_with_orca_large.png" alt="mongodb" height="25"/> Hbase</a>,
-<a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" height="25"/> Cassandra</a>, 
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" height="25"/> MongoDB</a>, 
-
-#### Web Development
-- **Front-End:** <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" height="25"/> HTML</a>, 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" height="25"/> CSS</a>, <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="25" alt="javascript"/> JavaScript</a>
-
-- **Server-Side Scripting:** <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="25" alt="php"/> PHP</a>
-
-#### Programming Languages
-<p align="center">
-    <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" height="25"/> Python</a> | 
-    <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="25" alt="r"/> R</a> | 
-    <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" height="25"/> Java</a> | 
-    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" height="25"/> C</a> | 
-    <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" height="25"/> C#</a>
-</p>
-
-#### Other Tools
-<p align="center">
-    <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="25" alt="figma"/> Figma</a> | 
-    <a href="https://www.adobe.com/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="25" alt="illustrator"/> Adobe Illustrator</a> | 
-    <a href="https://www.powerdesigner.biz/" target="_blank" rel="noreferrer"><img src="https://www.powerdesigner.biz/images/logo-powerdesigner.png" height="25" alt="powerdesigner"/> PowerDesigner</a> | 
-    <a href="https://sparxsystems.com/" target="_blank" rel="noreferrer"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1ssO04hAPSLkfrAdA3FelBMpwBd0bYybi_qsxC9Gn&s" height="25" alt="entreprisearchitect"/> Entreprise Architect</a> |
-    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="25" alt="vscode"/> VS code</a> | 
-    <a href="https://www.anaconda.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="25" alt="anaconda"/> AnaConda</a>
-<p>
-
-## 📈 GitHub Stats
-
-<p align="left">
-    <img width="45%" height="165px" align="left" src="https://github-readme-stats.vercel.app/api?username=idrisselhouari&show_icons=true&include_all_commits=true&hide_border=true" alt="idrisselhouari" />
-</p>
-
-<p align="right">
-    <img width="45%" height="165px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=idrisselhouari&layout=compact&hide_border=true" alt="idrisselhouari" />
-</p>
-
-<p align="center" >
-  <img width="50%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=idrisselhouari" alt="idrisselhouari" />
-</p>
+Let's connect and collaborate on innovative projects! 🚀
