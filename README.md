@@ -30,12 +30,12 @@ def introduction():
 
 ### Databases
 
-#### Relational Databases (Rational)
+#### Relational Databases
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)](https://www.microsoft.com/en-us/sql-server)
 [![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)](https://www.oracle.com/database/)
 
-#### NoSQL Databases (Non-Rational)
+#### NoSQL Databases
 [![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)](https://redis.io/)
 [![Hadoop](https://img.shields.io/badge/Hadoop-273544?style=flat&logo=apache-hadoop&logoColor=white)](https://hadoop.apache.org/)
 [![Hbase](https://img.shields.io/badge/Hbase-7A7A7A?style=flat&logo=apache-hbase&logoColor=white)](https://hbase.apache.org/)
@@ -67,7 +67,32 @@ def introduction():
 [![Enterprise Architect](https://img.shields.io/badge/Enterprise%20Architect-000000?style=flat&logo=sparxsystems&logoColor=white)](https://sparxsystems.com/)
 [![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=flat&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 [![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=flat&logo=anaconda&logoColor=white)](https://www.anaconda.com/)
+ <!-- 
+### 📈 GitHub Stats & Metrics
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=idrisselhouari&show_icons=true&theme=light&count_private=true&include_all_commits=true&hide_title=true" alt="Idriss's GitHub Stats" />
+  
 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=idrisselhouari&layout=compact&theme=light&hide_border=true&langs_count=10" alt="Idriss's Top Languages" />
+</div>
+
+## 🌟 Fun Facts & Achievements
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=idrisselhouari&theme=light&column=3&no-frame=true" alt="Idriss's GitHub Trophy" />
+  </a>
+</div>
+
+## 🔄 GitHub Activity Graph
+<div align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=idrisselhouari&bg_color=ffffff&color=333333&line=00FF00&point=333333&area=true&hide_border=true" alt="GitHub Activity Graph" />
+</div>
+
+## 📅 GitHub Streak
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=idrisselhouari&theme=light&hide_border=true" alt="Idriss's GitHub Streak" />
+</div>
+-->
 
 ## 🎯 Current Focus
 - Deepening my expertise in AI and machine learning applications
