@@ -13,10 +13,14 @@ def introduction():
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/idrisselhouari)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/idrisselhouari)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/idrisselhouari)
-[![X](https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/idrisselhouari)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/idrisselhouari)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/#8103)
 
 ## 🛠 Tech Stack
+
+### MLOps Tools
+[![Kubeflow](https://img.shields.io/badge/Kubeflow-326CE5?style=flat&logo=kubeflow&logoColor=white)](https://www.kubeflow.org/)
+   
 
 ### AI & Data Science
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)](https://www.tensorflow.org)
@@ -40,6 +44,10 @@ def introduction():
 [![Hbase](https://img.shields.io/badge/Hbase-7A7A7A?style=flat&logo=apache-hbase&logoColor=white)](https://hbase.apache.org/)
 [![Cassandra](https://img.shields.io/badge/Cassandra-1287A5?style=flat&logo=apache-cassandra&logoColor=white)](https://cassandra.apache.org/)
 [![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+
+### IoT Tools
+[![Node-RED](https://img.shields.io/badge/Node--RED-8F0000?style=flat&logo=node-red&logoColor=white)](https://nodered.org/)
+[![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat&logo=mqtt&logoColor=white)](https://mqtt.org/)
 
 ### Web Development
 
