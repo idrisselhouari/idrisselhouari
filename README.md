@@ -1,10 +1,9 @@
-## 👋 Hello there! I'm Idriss, a passionate Data Scientist & Developer
+## 👋 Hello there! I'm Idriss, a passionate AI/ML Engineer
 
 ```python
 def introduction():
-    print("👨‍💻  Data Scientist | Python Developer | Frontend Enthusiast")
-    print("🎓  Student at The National School of Applied Sciences Kenitra")
-    print("🌱  Currently exploring Industry 4.0 and AI innovations")
+    print("👨‍💻  AI/ML Engineer | Backend Enthusiast")
+    print("🌱  Currently exploring AI Agents and Industry 4.0")
     print("💬  Let's connect and build something amazing together!")
 ```
 
